@@ -1,3 +1,8 @@
-QLabel {
-    color: white; /* Цвет текста */
+QWidget {
+  background:
+qlineargradient(x1:0, y1:0, x2:0, y2: 1,  stop: 1 #fc9551);
 }
+QLabel {
+  color:#6b6b6b;
+}
+/*General settings*/
